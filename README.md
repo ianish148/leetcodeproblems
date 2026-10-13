@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,8 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
