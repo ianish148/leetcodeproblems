@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
