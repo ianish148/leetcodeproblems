@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/ianish148/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/ianish148/leetcodeproblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
