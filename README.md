@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/ianish148/leetcodeproblems/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/ianish148/leetcodeproblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ianish148/leetcodeproblems/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
