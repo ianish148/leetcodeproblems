@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ianish148/leetcodeproblems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ianish148/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
@@ -84,6 +85,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
