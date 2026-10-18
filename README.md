@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ianish148/leetcodeproblems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ianish148/leetcodeproblems/tree/master/0048-rotate-image) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/ianish148/leetcodeproblems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
@@ -90,8 +92,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
