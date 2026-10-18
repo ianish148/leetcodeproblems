@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ianish148/leetcodeproblems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ianish148/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ianish148/leetcodeproblems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ianish148/leetcodeproblems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ianish148/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ianish148/leetcodeproblems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ianish148/leetcodeproblems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ianish148/leetcodeproblems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ianish148/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -136,7 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
