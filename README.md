@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ianish148/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ianish148/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ianish148/leetcodeproblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ianish148/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ianish148/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ianish148/leetcodeproblems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/ianish148/leetcodeproblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -147,8 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ianish148/leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
