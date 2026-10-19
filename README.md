@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ianish148/leetcodeproblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ianish148/leetcodeproblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ianish148/leetcodeproblems/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ianish148/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ianish148/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ianish148/leetcodeproblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/ianish148/leetcodeproblems/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/ianish148/leetcodeproblems/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Math
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ianish148/leetcodeproblems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
@@ -139,7 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
