@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ianish148/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ianish148/leetcodeproblems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ianish148/leetcodeproblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/ianish148/leetcodeproblems/tree/master/0152-maximum-product-subarray) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ianish148/leetcodeproblems/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
@@ -142,7 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ianish148/leetcodeproblems/tree/master/0229-majority-element-ii) |
