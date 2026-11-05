@@ -1,17 +1,14 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        int count = 0;
-        for(int i = 0; i < arr1.size(); i++) {
-            bool valid = true;
-            for(int j = 0; j < arr2.size(); j++) {
-                if(abs(arr1[i] - arr2[j]) <= d) {
-                    valid = false;
-                    break;
-                }
+        ranges::sort(arr2);
+        arr2.push_back(INT_MAX);
+        int cnt = 0;
+        for(int a : arr1){
+            if(*ranges::lower_bound(arr2, a - d) > a + d){
+                cnt++;
             }
-            if(valid) count++;
         }
-        return count;
+        return cnt;
     }
 };
