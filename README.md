@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ianish148/leetcodeproblems/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ianish148/leetcodeproblems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
